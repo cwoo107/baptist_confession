@@ -102,7 +102,9 @@
 
     <b-container fluid>
     <b-row>
-      <b-col cols="2">
+      <b-col cols='1' v-if="!isMobile()">
+        </b-col>
+      <b-col v-else cols="2">
         <b-list-group v-b-scrollspy:listgroup-ex style='text-align:left !important; padding-top: 50px'>
           <b-list-group-item href="#1">1. Of the Holy Scriptures</b-list-group-item>
           <b-list-group-item href="#2">2. Of God and the Holy Trinity</b-list-group-item>
@@ -139,7 +141,7 @@
         </b-list-group>
       </b-col>
 
-      <b-col cols="10">
+      <b-col lg="10" md='12'>
         <div id="listgroup-ex" style="position:relative; overflow-y:auto; height:2000px">
           <b-container id='1' fluid style="padding-top:200px; padding-bottom:200px;">
             <b-row >
@@ -1374,7 +1376,16 @@ export default {
     return {
       
     }
-  }
+  },
+  methods: {
+ isMobile() {
+   if(/Android|webOS|iPhone||iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+     return true
+   } else {
+     return false
+   }
+ }
+}
 }
 </script>
 
