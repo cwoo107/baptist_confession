@@ -7,7 +7,7 @@
         </b-col>
       </b-row>
       <b-row id='title1'>
-        <b-col md='8' offset-md='2' style='padding-bottom:25px'>
+        <b-col md='8' offset-md='2' style='padding-top:75px'>
         
         <h5><i>Put forth by the Elders and Brethren of many Congregations of Christians
 (baptized upon profession of their faith) in London and the Country.</i></h5>
@@ -15,7 +15,7 @@
       </b-row>
       <b-row>
         <b-col md='12' >
-          <ul >
+          <!--<ul >
           <li><a><b><a href='#title1' style='font-family: times-new-roman !important'>I</a> - </b>
             <a href='#1'>Article 1</a> /
             <a href='#2'>Article 2</a> /
@@ -88,7 +88,7 @@
             <a href='#16c'>Rejections</a> 
             </a></li><br />
             <li><b><a href='#rejection'>Rejection of False Accusations</a></b></li>
-          </ul>
+          </ul>-->
         </b-col>
       </b-row>
       <b-row>
@@ -97,7 +97,373 @@
         </b-col>
       </b-row>
     </b-container >
-    <b-container id='1' fluid style="padding-top:200px; padding-bottom:200px;">
+
+
+
+    <b-container fluid>
+    <b-row>
+      <b-col cols="2">
+        <b-list-group v-b-scrollspy:listgroup-ex style='text-align:left !important; padding-top: 50px'>
+          <b-list-group-item href="#1">1. Of the Holy Scriptures</b-list-group-item>
+          <b-list-group-item href="#2">2. Of God and the Holy Trinity</b-list-group-item>
+          <b-list-group-item href="#3">3. Of God’s Decree</b-list-group-item>
+          <b-list-group-item href="#4">4. Of Creation</b-list-group-item>
+          <b-list-group-item href="#5">5. Of Divine Providence</b-list-group-item>
+          <b-list-group-item href="#6">6. Of the Fall of Man, of Sin, and of the Punishment thereof</b-list-group-item>
+          <b-list-group-item href="#7">7. Of God’s Covenant</b-list-group-item>
+          <b-list-group-item href="#8">8. Of Christ the Mediator</b-list-group-item>
+          <b-list-group-item href="#9">9. Of Free Will</b-list-group-item>
+          <b-list-group-item href="#10">10. Of Effectual Calling</b-list-group-item>
+          <b-list-group-item href="#11">11. Of Justification</b-list-group-item>
+          <b-list-group-item href="#12">12. Of Adoption</b-list-group-item>
+          <b-list-group-item href="#13">13. Of Sanctification</b-list-group-item>
+          <b-list-group-item href="#14">14. Of Saving Faith</b-list-group-item>
+          <b-list-group-item href="#15">15. Of Repentance unto Life and Salvation</b-list-group-item>
+          <b-list-group-item href="#16">16. Of Good Works</b-list-group-item>
+          <b-list-group-item href="#17">17. Of the Perseverance of the Saints</b-list-group-item>
+          <b-list-group-item href="#18">18. Of the Assurance of Grace and Salvation</b-list-group-item>
+          <b-list-group-item href="#19">19. Of the Law of God</b-list-group-item>
+          <b-list-group-item href="#20">20. Of the Gospel and the Extent of Grace thereof</b-list-group-item>
+          <b-list-group-item href="#21">21. Of Christian Liberty and Liberty of Conscience</b-list-group-item>
+          <b-list-group-item href="#22">22. Of Religious Worship and the Sabbath Day</b-list-group-item>
+          <b-list-group-item href="#23">23. Of Lawful Oaths and Vows</b-list-group-item>
+          <b-list-group-item href="#24">24. Of the Civil Magistrate</b-list-group-item>
+          <b-list-group-item href="#25">25. Of Marriage</b-list-group-item>
+          <b-list-group-item href="#26">26. Of the Church</b-list-group-item>
+          <b-list-group-item href="#27">27. Of the Communion of Saints</b-list-group-item>
+          <b-list-group-item href="#28">28. Of Baptism and the Lord’s Supper</b-list-group-item>
+          <b-list-group-item href="#29">29. Of Baptism</b-list-group-item>
+          <b-list-group-item href="#30">30. Of the Lord’s Supper</b-list-group-item>
+          <b-list-group-item href="#31">31. Of the State of Man after Death, and of the Resurrection of the Dead</b-list-group-item>
+          <b-list-group-item href="#32">32. Of the Last Judgment</b-list-group-item>
+        </b-list-group>
+      </b-col>
+
+      <b-col cols="10">
+        <div id="listgroup-ex" style="position:relative; overflow-y:auto; height:2000px">
+          <b-container id='1' fluid style="padding-top:200px; padding-bottom:200px;">
+            <b-row >
+              <b-col md='10' offset-md='1'  >
+                <h3 style='padding-bottom:20px'><b>Of the Holy Scriptures</b></h3>
+                <h5 style='text-align:left !important'>
+                1. The Holy Scripture is the only sufficient, certain, and infallible rule of all saving knowledge, faith, and obedience, although the light of nature, and the works of creation and providence do so far manifest the goodness, wisdom, and power of God, as to leave men inexcusable; yet are they not sufficient to give that knowledge of God and his will which is necessary unto salvation. Therefore it pleased the Lord at sundry times and in divers manners to reveal himself, and to declare that his will unto his church; and afterward for the better preserving and propagating of the truth, and for the more sure establishment and comfort of the church against the corruption of the flesh, and the malice of Satan, and of the world, to commit the same wholly unto writing; which maketh the Holy Scriptures to be most necessary, those former ways of God's revealing his will unto his people being now ceased. ( 2 Timothy 3:15-17; Isaiah 8:20; Luke 16:29, 31; Ephesians 2:20; Romans 1:19-21; Romans 2:14,15; Psalms 19:1-3; Hebrews 1:1; Proverbs 22:19-21; Romans 15:4; 2 Peter 1:19,20 )<p />
+                2. Under the name of Holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testaments, which are these: 
+                  <ul><br />
+                    <li>OF THE OLD TESTAMENT: Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, I Samuel, II Samuel, I Kings, II Kings, I Chronicles, II Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, The Song of Solomen, Isaiah, Jeremiah, Lamentations,Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi</li>
+                  </ul><ul><br />
+                    <li>OF THE NEW TESTAMENT: Matthew, Mark, Luke, John, The Acts of the Apostles, Paul's Epistle to the Romans, I Corinthians, II Corinthians, Galatians, Ephesians, Philippians, Colossians, I Thessalonians, II Thessalonians, I Timothy, II Timothy, To Titus, To Philemon, The Epistle to the Hebrews, Epistle of James, The first and second Epistles of Peter, The first, second, and third Epistles of John, The Epistle of Jude, The Revelation</li>
+                  </ul><br />
+                All of which are given by the inspiration of God, to be the rule of faith and life. ( 2 Timothy 3:16)<p />
+                3. The books commonly called Apocrypha, not being of divine inspiration, are no part of the canon or rule of the Scripture, and, therefore, are of no authority to the church of God, nor to be any otherwise approved or made use of than other human writings. ( Luke 24:27, 44; Romans 3:2 )<p />
+                4. The authority of the Holy Scripture, for which it ought to be believed, dependeth not upon the testimony of any man or church, but wholly upon God (who is truth itself), the author thereof; therefore it is to be received because it is the Word of God. ( 2 Peter 1:19-21; 2 Timothy 3:16; 2 Thessalonians 2:13; 1 John 5:9 )<p />
+                5. We may be moved and induced by the testimony of the church of God to an high and reverent esteem of the Holy Scriptures; and the heavenliness of the matter, the efficacy of the doctrine, and the majesty of the style, the consent of all the parts, the scope of the whole (which is to give all glory to God), the full discovery it makes of the only way of man's salvation, and many other incomparable excellencies, and entire perfections thereof, are arguments whereby it doth abundantly evidence itself to be the Word of God; yet notwithstanding, our full persuasion and assurance of the infallible truth, and divine authority thereof, is from the inward work of the Holy Spirit bearing witness by and with the Word in our hearts. ( John 16:13,14; 1 Corinthians 2:10-12; 1 John 2:20, 27)<p />
+                6. The whole counsel of God concerning all things necessary for his own glory, man's salvation, faith and life, is either expressly set down or necessarily contained in the Holy Scripture: unto which nothing at any time is to be added, whether by new revelation of the Spirit, or traditions of men. Nevertheless, we acknowledge the inward illumination of the Spirit of God to be necessary for the saving understanding of such things as are revealed in the Word, and that there are some circumstances concerning the worship of God, and government of the church, common to human actions and societies, which are to be ordered by the light of nature and Christian prudence, according to the general rules of the Word, which are always to be observed. ( 2 Timothy 3:15-17; Galatians 1:8,9; John 6:45; 1 Corinthians 2:9-12; 1 Corinthians 11:13, 14; 1 Corinthians 14:26,40)<p />
+                7. All things in Scripture are not alike plain in themselves, nor alike clear unto all; yet those things which are necessary to be known, believed and observed for salvation, are so clearly propounded and opened in some place of Scripture or other, that not only the learned, but the unlearned, in a due use of ordinary means, may attain to a sufficient understanding of them. ( 2 Peter 3:16; Psalms 19:7; Psalms 119:130)<p />
+                8. The Old Testament in Hebrew (which was the native language of the people of God of old), and the New Testament in Greek (which at the time of the writing of it was most generally known to the nations), being immediately inspired by God, and by his singular care and providence kept pure in all ages, are therefore authentic; so as in all controversies of religion, the church is finally to appeal to them. But because these original tongues are not known to all the people of God, who have a right unto, and interest in the Scriptures, and are commanded in the fear of God to read and search them, therefore they are to be translated into the vulgar language of every nation unto which they come, that the Word of God dwelling plentifully in all, they may worship him in an acceptable manner, and through patience and comfort of the Scriptures may have hope. ( Romans 3:2; Isaiah 8:20; Acts 15:15; John 5:39; 1 Corinthians 14:6, 9, 11, 12, 24, 28; Colossians 3:16 )<p />
+                9. The infallible rule of interpretation of Scripture is the Scripture itself; and therefore when there is a question about the true and full sense of any Scripture (which is not manifold, but one), it must be searched by other places that speak more clearly. ( 2 Peter 1:20, 21; Acts 15:15, 16)<p />
+                10. The supreme judge, by which all controversies of religion are to be determined, and all decrees of councils, opinions of ancient writers, doctrines of men, and private spirits, are to be examined, and in whose sentence we are to rest, can be no other but the Holy Scripture delivered by the Spirit, into which Scripture so delivered, our faith is finally resolved. ( Matthew 22:29, 31, 32; Ephesians 2:20; Acts 28:23)<p />
+                </h5>
+              </b-col>
+            </b-row>
+          </b-container>
+          <b-container id='2' fluid class='blue' style="padding-top:200px; padding-bottom:200px">
+            <b-row >
+              <b-col md='10' offset-md='1'  >
+                <h3 style='padding-bottom:20px'><b>Article 2: The Manifestation of God’s Love</b></h3>
+                <h4>
+                But this is how God showed his love: he sent his only begotten Son into the world, so that whoever believes in him should not perish but have 
+                eternal life (1 John 4:9; John 3:16).
+                </h4>
+              </b-col>
+            </b-row>
+          </b-container>
+
+          <b-container id='3' fluid style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 3: The Preaching of the Gospel</b></h3>
+          <h4>
+          In order that people may be brought to faith, God mercifully sends messengers of this very joyful message to the people and at the time he wills. 
+          By this ministry people are called to repentance and faith in Christ crucified. For “how shall they believe in him of whom they have not heard? 
+          And how shall they hear without someone preaching? And how shall they preach unless they have been sent?” (Rom. 10:14-15).
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid id='4' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 4: A Twofold Response to the Gospel</b></h3>
+          <h4>
+          God’s wrath remains on those who do not believe this gospel. But those who do accept it and embrace Jesus the Savior with a true and living faith are 
+          delivered through him from God’s wrath and from destruction, and receive the gift of eternal life.
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid id='5' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 5: The Sources of Unbelief and of Faith</b></h3>
+          <h4>
+          The cause or blame for this unbelief, as well as for all other sins, is not at all in God, but in humanity. Faith in Jesus Christ, however, and salvation 
+          through him is a free gift of God. As Scripture says, “It is by grace you have been saved, through faith, and this not from yourselves; it is a gift of God” 
+          (Eph. 2:8). Likewise: “It has been freely given to you to believe in Christ” (Phil. 1:29).
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid id='6' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 6: God’s Eternal Decree</b></h3>
+          <h4>
+          The fact that some receive from God the gift of faith within time, and that others do not, stems from his eternal decree. 
+          For “all his works are known to God from eternity” (Acts 15:18; Eph. 1:11). In accordance with this decree God graciously softens the hearts, 
+          however hard, of the elect and inclines them to believe, but by a just judgment God leaves in their wickedness and hardness of heart those who 
+          have not been chosen. And in this especially is disclosed to us God’s act—unfathomable, and as merciful as it is just—of distinguishing between 
+          people equally lost. This is the well-known decree of election and reprobation revealed in God’s Word. The wicked, impure, and unstable distort 
+          this decree to their own ruin, but it provides holy and godly souls with comfort beyond words.
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid  id='7' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 7: Election</b></h3>
+          <h4>
+          Election is God’s unchangeable purpose by which he did the following:
+          <p />Before the foundation of the world, by sheer grace, according to the free good pleasure of his will, 
+          God chose in Christ to salvation a definite number of particular people out of the entire human race, 
+          which had fallen by its own fault from its original innocence into sin and ruin. Those chosen were neither 
+          better nor more deserving than the others, but lay with them in the common misery. God did this in Christ, whom he also appointed from eternity 
+          to be the mediator, the head of all those chosen, and the foundation of their salvation. <p />
+          And so God decreed to give to Christ those chosen for salvation, and to call and draw them effectively into Christ’s 
+          fellowship through the Word and Spirit. In other words, God decreed to grant them true faith in Christ, to justify them, 
+          to sanctify them, and finally, after powerfully preserving them in the fellowship of the Son, to glorify them. <p />
+          God did all this in order to demonstrate his mercy, to the praise of the riches of God’s glorious grace.<p />
+          As Scripture says, “God chose us in Christ, before the foundation of the world, so that we should be holy and blameless before 
+          him with love; he predestined us whom he adopted as his children through Jesus Christ, in himself, according to the good pleasure of his will, 
+          to the praise of his glorious grace, by which he freely made us pleasing to himself in his beloved” (Eph. 1:4-6). And elsewhere, 
+          “Those whom he predestined, he also called; and those whom he called, he also justified; and those whom he justified, he also glorified” (Rom. 8:30).
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid  id='8' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 8: A Single Decree of Election</b></h3>
+          <h4>
+          This election is not of many kinds, but one and the same for all who were to be saved in the Old and the New Testament. 
+          For Scripture declares that there is a single good pleasure, purpose, and plan of God’s will, by which he chose us from eternity both 
+          to grace and to glory, both to salvation and to the way of salvation, which God prepared in advance for us to walk in.
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid  id='9' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 9: Election Not Based on Foreseen Faith</b></h3>
+          <h4>
+          This same election took place, not on the basis of foreseen faith, of the obedience of faith, of holiness, or of any other good quality and disposition, 
+          as though it were based on a prerequisite cause or condition in the person to be chosen, but rather for the purpose of faith, of the obedience of faith, 
+          of holiness, and so on. Accordingly, election is the source of every saving good. Faith, holiness, and the other saving gifts, and at last eternal life itself, 
+          flow forth from election as its fruits and effects. As the apostle says, “He chose us” (not because we were, but) 
+          “so that we should be holy and blameless before him in love” (Eph. 1:4).
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid  id='10' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 10: Election Based on God’s Good Pleasure</b></h3>
+          <h4>
+          But the cause of this undeserved election is exclusively the good pleasure of God. This does not involve God’s choosing certain 
+          human qualities or actions from among all those possible as a condition of salvation, but rather involves adopting certain particular 
+          persons from among the common mass of sinners as God’s own possession. As Scripture says, “When the children were not yet born, and had 
+          done nothing either good or bad . . . , she (Rebecca) was told, ‘The older will serve the younger.’ As it is written, ‘Jacob I loved, 
+          but Esau I hated’” (Rom. 9:11-13). Also, “All who were appointed for eternal life believed” (Acts 13:48).
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid  id='11' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 11: Election Unchangeable</b></h3>
+          <h4>
+          Just as God is most wise, unchangeable, all-knowing, and almighty, so the election made by him can neither be suspended nor altered, 
+          revoked, or annulled; neither can God’s chosen ones be cast off, nor their number reduced.
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+    
+    <b-container fluid  id='12' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 12: The Assurance of Election</b></h3>
+          <h4>
+          Assurance of their eternal and unchangeable election to salvation is given to the chosen in due time, 
+          though by various stages and in differing measure. Such assurance comes not by inquisitive searching 
+          into the hidden and deep things of God, but by noticing within themselves, with spiritual joy and holy 
+          delight, the unmistakable fruits of election pointed out in God’s Word—such as a true faith in Christ, 
+          a childlike fear of God, a godly sorrow for their sins, a hunger and thirst for righteousness, and so on.
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid   id='13' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 13: The Fruit of This Assurance</b></h3>
+          <h4>
+          In their awareness and assurance of this election, God’s children daily find greater cause to humble themselves before God, 
+          to adore the fathomless depth of God’s mercies, to cleanse themselves, and to give fervent love in return to the One who first 
+          so greatly loved them. This is far from saying that this teaching concerning election, and reflection upon it, make God’s 
+          children lax in observing his commandments or carnally self-assured. By God’s just judgment this does usually happen to those 
+          who casually take for granted the grace of election or engage in idle and brazen talk about it but are unwilling to walk in the 
+          ways of the chosen.
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid  id='14' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 14: Teaching Election Properly</b></h3>
+          <h4>
+          By God’s wise plan, this teaching concerning divine election was proclaimed through the prophets, 
+          Christ himself, and the apostles, in Old and New Testament times. It was subsequently committed 
+          to writing in the Holy Scriptures. So also today in God’s church, for which it was specifically 
+          intended, this teaching must be set forth with a spirit of discretion, in a godly and holy manner, 
+          at the appropriate time and place, without inquisitive searching into the ways of the Most High. 
+          This must be done for the glory of God’s most holy name, and for the lively comfort of God’s people.
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid  id='15'  style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 15: Reprobation</b></h3>
+          <h4>
+          Moreover, Holy Scripture most especially highlights this eternal and undeserved grace of our election and brings 
+          it out more clearly for us, in that it further bears witness that not all people have been chosen but that some 
+          have not been chosen or have been passed by in God’s eternal election—those, that is, concerning whom God, on the 
+          basis of his entirely free, most just, irreproachable, and unchangeable good pleasure, made the following decree: <p />
+          to leave them in the common misery into which, by their own fault, they have plunged themselves; not to grant them 
+          saving faith and the grace of conversion; but finally to condemn and eternally punish those who have been left in 
+          their own ways and under God’s just judgment, not only for their unbelief but also for all their other sins, in 
+          order to display his justice.<p />
+          And this is the decree of reprobation, which does not at all make God the author of sin (a blasphemous thought!) 
+          but rather its fearful, irreproachable, just judge and avenger.
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid  id='16' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 16: Responses to the Teaching of Reprobation</b></h3>
+          <h4>
+          Those who do not yet actively experience within themselves a living faith in Christ or an assured confidence of heart, 
+          peace of conscience, a zeal for childlike obedience, and a glorying in God through Christ, but who nevertheless use 
+          the means by which God has promised to work these things in us—such people ought not to be alarmed at the mention of 
+          reprobation, nor to count themselves among the reprobate; rather they ought to continue diligently in the use of the 
+          means, to desire fervently a time of more abundant grace, and to wait for it in reverence and humility. On the other 
+          hand, those who seriously desire to turn to God, to be pleasing to God alone, and to be delivered from the body of 
+          death, but are not yet able to make such progress along the way of godliness and faith as they would like—such people 
+          ought much less to stand in fear of the teaching concerning reprobation, since our merciful God has promised not to 
+          snuff out a smoldering wick or break a bruised reed. However, those who have forgotten God and their Savior Jesus 
+          Christ and have abandoned themselves wholly to the cares of the world and the pleasures of the flesh—such people have 
+          every reason to stand in fear of this teaching, as long as they do not seriously turn to God. 
+
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid  id='17'  style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 17: The Salvation of the Infants of Believers</b></h3>
+          <h4>
+          Since we must make judgments about God’s will from his Word, which testifies that the children of believers are holy, 
+          not by nature but by virtue of the gracious covenant in which they together with their parents are included, godly 
+          parents ought not to doubt the election and salvation of their children whom God calls out of this life in infancy.
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid  id='18' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Article 18: The Proper Attitude Toward Election and ­Reprobation</b></h3>
+          <h4>
+          To those who complain about this grace of an undeserved election and about the severity of a just reprobation, 
+          we reply with the words of the apostle, “Who are you, O man, to talk back to God?” (Rom. 9:20), and with the 
+          words of our Savior, “Have I no right to do what I want with my own?” (Matt. 20:15). We, however, with reverent 
+          adoration of these secret things, cry out with the apostle: “Oh, the depths of the riches both of the wisdom 
+          and the knowledge of God! How unsearchable are his judgments, and his ways beyond tracing out! For who has known 
+          the mind of the Lord? Or who has been his counselor? Or who has first given to God, that God should repay him? 
+          For from him and through him and to him are all things. To him be the glory forever! Amen” (Rom. 11:33-36).
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid  id='19'  style=" padding-top:200px; padding-bottom:200px">
+      <b-row >
+        <b-col md='10' offset-md='1'  >
+          <h3 style='padding-bottom:20px'><b>Rejection of the Errors by Which the Dutch Churches Have for Some Time Been Disturbed</b></h3>
+          <h6>Having set forth the orthodox teaching concerning election and reprobation, the Synod rejects the errors of those:</h6><p />
+          <div style="text-align: left !important;">
+          <h6 style='font-family: times-new-roman !important'>I</h6>Who teach that the will of God to save those who would believe and persevere in faith and in the obedience of faith is the whole and entire decision of election to salvation, and that nothing else concerning this decision has been revealed in God’s Word.<p />
+          For they deceive the simple and plainly contradict Holy Scripture in its testimony that God does not only wish to save those who would believe, but that he has also from eternity chosen certain particular people to whom, rather than to others, he would within time grant faith in Christ and perseverance. As Scripture says, “I have revealed your name to those whom you gave me” (John 17:6). Likewise, “All who were appointed for eternal life believed” (Acts 13:48), and “He chose us before the foundation of the world so that we should be holy . . .” (Eph. 1:4).<p />
+          <h6 style='font-family: times-new-roman !important'>II</h6>Who teach that God’s election to eternal life is of many kinds: one general and indefinite, the other particular and definite; and the latter in turn either incomplete, revocable, conditional, or else complete, irrevocable, and absolute. Likewise, who teach that there is one election to faith and another to salvation, so that there can be an election to justifying faith apart from a nonconditional election to salvation.<p />
+          For this is an invention of the human mind, devised apart from the Scriptures, which distorts the teaching concerning election and breaks up this golden chain of salvation: “Those whom he predestined, he also called; and those whom he called, he also justified; and those whom he justified, he also glorified” (Rom. 8:30).<p />
+          <h6 style='font-family: times-new-roman !important'>III</h6>Who teach that God’s good pleasure and purpose, which Scripture mentions in its teaching of election, does not involve God’s choosing certain particular people rather than others, but involves God’s choosing, out of all possible conditions (including the works of the law) or out of the whole order of things, the intrinsically unworthy act of faith, as well as the imperfect obedience of faith, to be a condition of salvation; and it involves his graciously wishing to count this as perfect obedience and to look upon it as worthy of the reward of eternal life.<p />
+          For by this pernicious error the good pleasure of God and the merit of Christ are robbed of their effectiveness and people are drawn away, by unprofitable inquiries, from the truth of undeserved justification and from the simplicity of the Scriptures. It also gives the lie to these words of the apostle: “God called us with a holy calling, not in virtue of works, but in virtue of his own purpose and the grace which was given to us in Christ Jesus before the beginning of time” (2 Tim. 1:9).<p />
+          <h6 style='font-family: times-new-roman !important'>IV</h6>Who teach that in election to faith a prerequisite condition is that humans should rightly use the light of nature, be upright, unassuming, humble, and disposed to eternal life, as though election depended to some extent on these factors.<p />
+          For this smacks of Pelagius, and it clearly calls into question the words of the apostle: “We lived at one time in the passions of our flesh, following the will of our flesh and thoughts, and we were by nature children of wrath, like everyone else. But God, who is rich in mercy, out of the great love with which he loved us, even when we were dead in transgressions, made us alive with Christ, by whose grace you have been saved. And God raised us up with him and seated us with him in heaven in Christ Jesus, in order that in the coming ages we might show the surpassing riches of his grace, according to his kindness ­toward us in Christ Jesus. For it is by grace you have been saved, through faith (and this not from yourselves; it is the gift of God) not by works, so that no one can boast” (Eph. 2:3-9).<p />
+          <h6 style='font-family: times-new-roman !important'>V</h6>Who teach that the incomplete and conditional election of particular persons to salvation occurred on the basis of a foreseen faith, repentance, holiness, and godliness, which has just begun or continued for some time; but that complete and nonconditional election occurred on the basis of a foreseen perseverance to the end in faith, repentance, holiness, and godliness. And that this is the gracious and evangelical worthiness, on account of which the one who is chosen is more worthy than the one who is not chosen. And therefore that faith, the obedience of faith, holiness, godliness, and perseverance are not fruits or effects of an unchangeable election to glory, but indispensable conditions and causes, which are prerequisite in those who are to be chosen in the complete election, and which are foreseen as achieved in them.<p />
+          This runs counter to the entire Scripture, which throughout impresses upon our ears and hearts these sayings among others: “Election is not by works, but by him who calls” (Rom. 9:11-12); “All who were appointed for eternal life believed” (Acts 13:48); “He chose us in himself so that we should be holy” (Eph. 1:4); “You did not choose me, but I chose you” (John 15:16); “If by grace, not by works” (Rom. 11:6); “In this is love, not that we loved God, but that he loved us and sent his Son” (1 John 4:10).<p />
+          <h6 style='font-family: times-new-roman !important'>VI</h6>Who teach that not every election to salvation is unchangeable, but that some of the chosen can perish and do in fact perish eternally, with no decision of God to prevent it.<p />
+          By this gross error they make God changeable, destroy the comfort of the godly concerning the steadfastness of their election, and contradict the Holy Scriptures, which teach that “the elect cannot be led astray” (Matt. 24:24), that “Christ does not lose those given to him by the Father” (John 6:39), and that “those whom God predestined, called, and justified, he also glorifies” (Rom. 8:30).<p />
+          <h6 style='font-family: times-new-roman !important'>VII</h6>Who teach that in this life there is no fruit, no awareness, and no assurance of one’s unchangeable election to glory, except as conditioned upon something changeable and contingent.<p />
+          For not only is it absurd to speak of an uncertain assurance, but these things also militate against the experience of the saints, who with the apostle rejoice from an awareness of their election and sing the praises of this gift of God; who, as Christ urged, “rejoice” with his disciples “that their names have been written in heaven” (Luke 10:20); and finally who hold up against the flaming arrows of the devil’s temptations the awareness of their election, with the question “Who will bring any charge against those whom God has chosen?” (Rom. 8:33).<p />
+          <h6 style='font-family: times-new-roman !important'>VII</h6>Who teach that it was not on the basis of his just will alone that God decided to leave anyone in the fall of Adam and in the common state of sin and condemnation or to pass anyone by in the imparting of grace necessary for faith and conversion.<p />
+          For these words stand fast: “He has mercy on whom he wishes, and he hardens whom he wishes” (Rom. 9:18). And also: “To you it has been given to know the secrets of the kingdom of heaven, but to them it has not been given” (Matt. 13:11). Likewise: “I give glory to you, Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding, and have revealed them to little children; yes, Father, because that was your pleasure” (Matt. 11:25-26).<p />
+          <h6 style='font-family: times-new-roman !important'>IX</h6>Who teach that the cause for God’s sending the gospel to one people rather than to another is not merely and solely God’s good pleasure, but rather that one people is better and worthier than the other to whom the gospel is not communicated.<p />
+For Moses contradicts this when he addresses the people of Israel as follows: “Behold, to Jehovah your God belong the heavens and the highest heavens, the earth and whatever is in it. But Jehovah was inclined in his affection to love your ancestors alone, and chose out their descendants after them, you above all peoples, as at this day” (Deut. 10:14-15). And also Christ: “Woe to you, Korazin! Woe to you, Bethsaida! for if those mighty works done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes” (Matt. 11:21).<p />
+          </div>
+        </b-col>
+      </b-row>
+    </b-container>
+          
+        </div>
+      </b-col>
+    </b-row>
+  </b-container>
+    <!--<b-container id='1' fluid style="padding-top:200px; padding-bottom:200px;">
       <b-row >
         <b-col md='10' offset-md='1'  >
           <h3 style='padding-bottom:20px'><b>Article 1: God’s Right to Condemn All People</b></h3>
@@ -987,7 +1353,7 @@ For Moses contradicts this when he addresses the people of Israel as follows: �
           </div>
         </b-col>
       </b-row>
-    </b-container>
+    </b-container>-->
 
     <b-container fluid class='blue' style="padding-top:25px; padding-bottom:25px">
       <b-row >
@@ -1006,7 +1372,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      
     }
   }
 }
@@ -1028,7 +1394,7 @@ export default {
 
 .blue {
   background: #2F413C;
-  color: white;
+  color: #D2D1CB;
 }
 
 h1, h2 {
