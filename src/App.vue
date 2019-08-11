@@ -12,20 +12,8 @@
         <h5><i>A confession of faith put forth by the elders and brethren of many congregations of Christians (baptized upon profession of their faith) in London and the country</i></h5>
         </b-col>
       </b-row>
-      
-      <b-row>
-        <b-col xs='4' offset-xs='4'>
-          <a href='#1'><unicon name="angle-down" fill='#858170' height="50" width="50" /></a>
-        </b-col>
-      </b-row>
-    </b-container >
-
-
-
-    <b-container fluid>
-    <b-row>
       <b-col cols="12" class="d-lg-none">
-        <b-nav tabs justified  v-b-scrollspy:nav-scroller style=' padding-top: 15px'>
+        <div tabs justified  v-b-scrollspy:nav-scroller style=' padding-top: 15px'>
           <b-nav-item href="#1">Ch.01</b-nav-item>
           <b-nav-item href="#2">Ch.02</b-nav-item>
           <b-nav-item href="#3">Ch.03</b-nav-item>
@@ -58,8 +46,20 @@
           <b-nav-item href="#30">Ch.30</b-nav-item>
           <b-nav-item href="#31">Ch.31</b-nav-item>
           <b-nav-item href="#32">Ch.32</b-nav-item>
-        </b-nav>
+        </div>
       </b-col>
+      <b-row>
+        <b-col xs='4' offset-xs='4'>
+          <a href='#1'><unicon name="angle-down" fill='#858170' height="50" width="50" /></a>
+        </b-col>
+      </b-row>
+    </b-container >
+
+
+
+    <b-container fluid>
+    <b-row>
+      
       <b-col cols="2" class="d-none d-lg-block">
         <b-list-group v-b-scrollspy:listgroup-ex style='text-align:left !important; padding-top: 15px'>
           <b-list-group-item href="#1">1. Of the Holy Scriptures</b-list-group-item>
