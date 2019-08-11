@@ -24,7 +24,43 @@
 
     <b-container fluid>
     <b-row>
-      <b-col cols="2">
+      <b-col cols="12" class="d-lg-none">
+        <b-nav tabs justified  v-b-scrollspy:nav-scroller style='text-align:left !important; padding-top: 15px'>
+          <b-nav-item href="#1">Ch.01</b-nav-item>
+          <b-nav-item href="#2">Ch.02</b-nav-item>
+          <b-nav-item href="#3">Ch.03</b-nav-item>
+          <b-nav-item href="#4">Ch.04</b-nav-item>
+          <b-nav-item href="#5">Ch.05</b-nav-item>
+          <b-nav-item href="#6">Ch.06</b-nav-item>
+          <b-nav-item href="#7">Ch.07</b-nav-item>
+          <b-nav-item href="#8">Ch.08</b-nav-item>
+          <b-nav-item href="#9">Ch.09</b-nav-item>
+          <b-nav-item href="#10">Ch.10</b-nav-item>
+          <b-nav-item href="#11">Ch.11</b-nav-item>
+          <b-nav-item href="#12">Ch.12</b-nav-item>
+          <b-nav-item href="#13">Ch.13</b-nav-item>
+          <b-nav-item href="#14">Ch.14</b-nav-item>
+          <b-nav-item href="#15">Ch.15</b-nav-item>
+          <b-nav-item href="#16">Ch.16</b-nav-item>
+          <b-nav-item href="#17">Ch.17</b-nav-item>
+          <b-nav-item href="#18">Ch.18</b-nav-item>
+          <b-nav-item href="#19">Ch.19</b-nav-item>
+          <b-nav-item href="#20">Ch.20</b-nav-item>
+          <b-nav-item href="#21">Ch.21</b-nav-item>
+          <b-nav-item href="#22">Ch.22</b-nav-item>
+          <b-nav-item href="#23">Ch.23</b-nav-item>
+          <b-nav-item href="#24">Ch.24</b-nav-item>
+          <b-nav-item href="#25">Ch.25</b-nav-item>
+          <b-nav-item href="#26">Ch.26</b-nav-item>
+          <b-nav-item href="#27">Ch.27</b-nav-item>
+          <b-nav-item href="#28">Ch.28</b-nav-item>
+          <b-nav-item href="#29">Ch.29</b-nav-item>
+          <b-nav-item href="#30">Ch.30</b-nav-item>
+          <b-nav-item href="#31">Ch.31</b-nav-item>
+          <b-nav-item href="#32">Ch.32</b-nav-item>
+        </b-nav>
+      </b-col>
+      <b-col cols="2" class="d-none d-lg-block">
         <b-list-group v-b-scrollspy:listgroup-ex style='text-align:left !important; padding-top: 15px'>
           <b-list-group-item href="#1">1. Of the Holy Scriptures</b-list-group-item>
           <b-list-group-item href="#2">2. Of God and the Holy Trinity</b-list-group-item>
@@ -61,7 +97,7 @@
         </b-list-group>
       </b-col>
 
-      <b-col cols="10" style='padding-top: 20px'>
+      <b-col lg="10" md='12' style='padding-top: 20px'>
         <div id="listgroup-ex" style="position:relative; overflow-y:auto; height:1935px; ">
           <b-container id='1' fluid style="padding-top:200px; padding-bottom:200px;">
             <b-row >
