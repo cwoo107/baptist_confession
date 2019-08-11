@@ -25,7 +25,7 @@
     <b-container fluid>
     <b-row>
       <b-col cols="12" class="d-lg-none">
-        <b-nav tabs justified  v-b-scrollspy:nav-scroller style='text-align:left !important; padding-top: 15px'>
+        <b-nav tabs justified  v-b-scrollspy:nav-scroller style=' padding-top: 15px'>
           <b-nav-item href="#1">Ch.01</b-nav-item>
           <b-nav-item href="#2">Ch.02</b-nav-item>
           <b-nav-item href="#3">Ch.03</b-nav-item>
@@ -596,7 +596,7 @@
                 </h5>
               </b-col>
               <b-col md='4' offset-md='4'>
-                <ul >
+                <ul > <br />
                   <li>Hansard Knollys, Pastor Broken Wharf, London</li>
                   <li>William Kiffin, Pastor Devonshire-square, London</li>
                   <li>John Harris, Pastor, Joiner’s Hall, London</li>
